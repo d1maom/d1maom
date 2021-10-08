@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @d1maom
+- 👀 I’m interested in linux, privacy, window managers, UI, UX
